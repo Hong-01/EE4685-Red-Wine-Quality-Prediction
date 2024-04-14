@@ -15,8 +15,8 @@ Faced with these challenging datasets, our objective is to conduct a comparative
 
 File Name Explanation:
 
-  Wine quality_EE4685_binary_classification.ipynb seems the data is the binary label "good" and "bad", and use ML classification method to predict.
-
-  Wine quality_EE4685_multiple_classification.ipynb uses the original "Quality" label to predict by ML classification method.
-
-  Wine quality_EE4685_multiple_regression.ipynb uses the original "Quality" label to predict by ML regression method.
+    Wine quality_EE4685_binary_classification.ipynb seems the data is the binary label "good" and "bad", and use ML classification method to predict.
+  
+    Wine quality_EE4685_multiple_classification.ipynb uses the original "Quality" label to predict by ML classification method.
+  
+    Wine quality_EE4685_multiple_regression.ipynb uses the original "Quality" label to predict by ML regression method.
