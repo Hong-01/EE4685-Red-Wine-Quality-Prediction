@@ -11,3 +11,12 @@ The red wine quality dataset comprises 1.5k entries, with each entry documenting
 Furthermore, the red wine quality dataset has a skewed distribution in the "Quality" variable, with most samples in the medium category and fewer in excellent and poor categories, posing challenges for classification. 
 
 Faced with these challenging datasets, our objective is to conduct a comparative analysis of the efficacy of different machine-learning algorithms. Specifically, we aim to predict the quality of red wine utilizing two primary approaches: binary classification and multiple classification. For binary classification, our methodology will include K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Gaussian Naive Bayes (GaussianNB), Logistic Regression (LR), and Random Forest (RF). For multiple classifications, in addition to those mentioned classification problems, we also use regression methods to predict the result, however, simple rounding is required due to discrete labels. To be more specific, we will employ Linear Regression, LASSO, Ridge Regression, Bayesian Regression, ARD Regression, and Bayesian Neural Networks (BNN) for Regression. Additionally, neural network architectures such as Deep Neural Networks (DNN) and BNN will be incorporated into our investigation. By comparing these methodologies, we aim to find the best way to predict red wine quality.
+
+
+File Name Explanation:
+
+  Wine quality_EE4685_binary_classification.ipynb seems the data is the binary label "good" and "bad", and use ML classification method to predict.
+
+  Wine quality_EE4685_multiple_classification.ipynb uses the original "Quality" label to predict by ML classification method.
+
+  Wine quality_EE4685_multiple_regression.ipynb uses the original "Quality" label to predict by ML regression method.
